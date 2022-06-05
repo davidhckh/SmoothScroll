@@ -1,4 +1,6 @@
 # SmoothScroll
 Simple SmoothScroll using JavaScript
 
-[Live View](https://smooth-scroll-one.vercel.app/)
+:exclamation: Doesn't support Pin ScrollTriggers
+
+[Demo](https://smooth-scroll-one.vercel.app/)
